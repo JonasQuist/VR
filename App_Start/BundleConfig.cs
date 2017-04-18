@@ -21,11 +21,17 @@ namespace VR
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.js",
-                      "~/Scripts/respond.js"));
+                      "~/Scripts/respond.js",
+                      "~/Scripts/jquery.magnific-popup.js",
+                      "~/Scripts/jquery.polyglot.language.switcher.js",
+                      "~/Scripts/responsiveslides.min.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/dashboard.css",
+                      "~/Content/popuo-box.css",
+                      "~/Content/site.css",
+                      "~/Content/style.css"));
         }
     }
 }
