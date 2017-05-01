@@ -161,3 +161,4 @@ C:\Development\VR\VR\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Development\VR\VR\obj\Debug\VR.csprojResolveAssemblyReference.cache
 C:\Development\VR\VR\obj\Debug\VR.dll
 C:\Development\VR\VR\obj\Debug\VR.pdb
+C:\Development\VR\VR\bin\VR.dll.config
