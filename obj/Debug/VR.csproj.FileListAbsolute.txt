@@ -93,7 +93,6 @@ C:\Development\VR\VR\bin\roslyn\System.Reflection.Metadata.dll
 C:\Development\VR\VR\bin\roslyn\vbc.exe
 C:\Development\VR\VR\bin\roslyn\VBCSCompiler.exe
 C:\Development\VR\VR\bin\roslyn\VBCSCompiler.exe.config
-C:\Development\VR\VR\bin\VR.dll.config
 C:\Development\VR\VR\bin\VR.dll
 C:\Development\VR\VR\bin\VR.pdb
 C:\Development\VR\VR\bin\Antlr3.Runtime.dll
